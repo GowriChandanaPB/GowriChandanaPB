@@ -15,7 +15,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1xMXdmYTltN2EydmVuMm52YTJyMjRtdmFsMnc5ejM4OHMxZjFxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="300px" alt="GIF" align="right"> 
 <br />
 
-  - 🔭 I’m an software Developer
+  - ✨ upcoming software Developer
   - 🌱 I’m currently learning cloud computing, flutter & improving my Problem Solving skills
   - 📚 Certified in Microsoft Azure Fundamentals (AZ-900)
   - 👨‍💻 Skilled in Java, Python, C, SQL, DSA, OOPs, C#, HTML, DBMS, RDBMS, Azure Cloud
