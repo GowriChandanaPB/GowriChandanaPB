@@ -12,7 +12,7 @@
   <img src="https://shields.io/github/stars/GowriChandanaPB?label=Stars&style=social)[(https://github.com/GowriChandanaPB">
 </p>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1xMXdmYTltN2EydmVuMm52YTJyMjRtdmFsMnc5ejM4OHMxZjFxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="400px" alt="GIF" align="right"> 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1xMXdmYTltN2EydmVuMm52YTJyMjRtdmFsMnc5ejM4OHMxZjFxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="300px" alt="GIF" align="right"> 
 <br />
 
   - 🔭 I’m an App Developer
