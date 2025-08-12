@@ -15,11 +15,15 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1xMXdmYTltN2EydmVuMm52YTJyMjRtdmFsMnc5ejM4OHMxZjFxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="300px" alt="GIF" align="right"> 
 <br />
 
-  - 🔭 I’m an App Developer
-  - 🌱 I’m currently learning Ethical Hacking & improving my Problem Solving skills
-  - 👨‍💻 I'm also a Graphic Designer 
+  - 🔭 I’m an software Developer
+  - 🌱 I’m currently learning cloud computing, flutter & improving my Problem Solving skills
+  - 📚 Certified in Microsoft Azure Fundamentals (AZ-900)
+  - 👨‍💻 Skilled in Java, Python, C, SQL, DSA, OOPs, C#, HTML, DBMS, RDBMS, Azure Cloud
+  - 🛠 Worked on projects like desktop assistance and mood based music recomendation system
   - 👯 I’m looking to collaborate for projects and hackathons
+  - 🎯 Preparing for competitive coding, technical interviews, and aptitude rounds
   - ⚡ Fun fact: I am still a newbie😄
+  - 🚀 Passionate about continuous learning and innovation
   - 😍 Interested to build tech that solve real world problem
   - 📫 You can reach me through 👇  
     <br />[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gowri-chandana-pb-ab6b6a318)  &nbsp; 
